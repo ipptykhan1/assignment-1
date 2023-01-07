@@ -1,0 +1,21 @@
+.section-contain{
+    display: center;
+    justify-content: center;
+    text-align: center;
+}
+.plan{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 300px;
+
+}
+.plan-detail{
+    padding: 0 60px;
+}
+.plan-title{
+    padding-left: 100px;
+
+}
+.plan-p{
+    color: gray;
+}
